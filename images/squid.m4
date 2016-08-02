@@ -5,4 +5,4 @@ include(`modules/squid.m4')
 include(`modules/cleanup.m4')
 
 # expose ports
-EXPOSE 3128
+EXPOSE 80
